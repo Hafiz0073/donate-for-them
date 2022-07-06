@@ -100,6 +100,42 @@ body {
 }
 
 .final-amount {
-    padding: 10px 200px;
+    padding: 10px 150px;
     text-align: center;
+}
+
+.donate-summery {
+    display: flex;
+    padding: 10px 150px;
+    margin-right: 20px;
+    border-radius: 10px;
+
+}
+
+.food {
+    width: 350px;
+    height: 300px;
+    background-color: #d0e9e08a;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.home {
+    width: 350px;
+    height: 300px;
+    background-color: #eed2e0;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.education {
+    width: 350px;
+    height: 300px;
+    background-color: #f7ebc78a;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.icon {
+    padding: 30px 18px;
 }
