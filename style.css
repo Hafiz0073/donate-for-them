@@ -1,0 +1,35 @@
+body {
+    margin 0;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.campaign {
+    text-align: center;
+    padding: 10px 265px 10px 265px;
+    color: white;
+}
+
+.campaign h1 {
+    font-size: 55px;
+}
+
+.header-campaign {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.contribute-button {
+    text-decoration: none;
+    background-color: #ed0202fa;
+    padding: 10px 14px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.campaign p {
+    padding: 0px 150px 20px;
+}
