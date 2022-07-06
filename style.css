@@ -19,6 +19,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
+    margin-bottom: 100px;
+
 }
 
 .contribute-button {
@@ -32,4 +34,72 @@ body {
 
 .campaign p {
     padding: 0px 150px 20px;
+}
+
+
+.donet-heading {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.donet-heading h1 {
+    color: black;
+    font-size: 35px;
+}
+
+.amount {
+    margin: auto;
+    width: 67%;
+    display: flex;
+    padding: 20px;
+    font-size: 30px;
+
+}
+
+.first-amount {
+    padding: 30px;
+    background-color: #dcdcdc2e;
+    color: slategray;
+    margin-right: 25px;
+    border-radius: 5px;
+}
+
+.second-amount {
+    padding: 30px;
+    background-color: #db7b7b30;
+    color: slategray;
+    margin-right: 25px;
+    color: #ff3333;
+    border: 3px solid #ff4d4d;
+    border-radius: 5px;
+}
+
+.third-amount {
+    padding: 30px;
+    background-color: #dcdcdc2e;
+    color: slategray;
+    margin-right: 25px;
+    border-radius: 5px;
+}
+
+.fourth-amount {
+    padding: 30px;
+    background-color: #dcdcdc2e;
+    color: slategray;
+    margin-right: 25px;
+    border-radius: 5px;
+}
+
+.fifth-amount {
+    padding: 30px;
+    background-color: #dcdcdc2e;
+    color: slategray;
+    margin-right: 25px;
+    border-radius: 5px;
+}
+
+.final-amount {
+    padding: 10px 200px;
+    text-align: center;
 }
